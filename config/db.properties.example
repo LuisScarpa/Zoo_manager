@@ -1,0 +1,4 @@
+
+url=jdbc:mysql://localhost:3306/zoo_manager?allowPublicKeyRetrieval=true&serverTimezone=America/Sao_Paulo&connectTimeout=5000
+usuario=root
+senha=
